@@ -34,13 +34,6 @@ You have a [detailed mock](https://bloominstituteoftechnology.github.io/W_S7M2_P
 
 4. You will load the app in Chrome by **navigating the browser to `http://localhost:3003`**.
 
-**❗ Note:** On the event of NPM errors during setup, delete the `node_modules` folder and the `package-lock.json` file, and retry `npm i` and `npm run dev`.
-
-### 🥷 Tasks
-
-**Here are guidelines for completing your tasks:**
-
-- If you look inside the `frontend/components` folder you will find an `App.js` component. You will complete your tasks inside this file.
 
 - The `App.js` component includes hints and pseudo-code in its comments to guide you.
 
